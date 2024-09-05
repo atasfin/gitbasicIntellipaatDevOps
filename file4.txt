@@ -1,2 +1,3 @@
+Using another line
 I am adding a new line here
 Creating 4th file
